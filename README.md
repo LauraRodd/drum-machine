@@ -14,7 +14,7 @@ A Drum Machine web app created with React for the *Frontend Libraries* certifica
 - Turn on/off drum machine
 - Handle volume
 
-### View live [here](https://codepen.io/laura-rodd/pen/YzwjLKO)
+### View live [here](https://codepen.io/laura-rodd/full/YzwjLKO)
 
 -------------------
 
