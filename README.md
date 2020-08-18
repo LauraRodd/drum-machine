@@ -1,3 +1,24 @@
+# Drum Machine
+ 
+A Drum Machine web app created with React for the *Frontend Libraries* certification from [*FreeCodeCamp*](https://www.freecodecamp.org/)
+
+### Technologies and tools used:
+
+- React
+- SASS/SCSS
+
+### How to use:
+
+- Press any key displayed in the drumpad to make a sounds
+- Or click any button 
+- Turn on/off drum machine
+- Handle volume
+
+### View live [here](https://codepen.io/laura-rodd/pen/YzwjLKO)
+
+-------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
